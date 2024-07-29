@@ -1,5 +1,11 @@
-<html>
-  <head></head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed GitHub HTML</title>
+</head>
+
   <body>
     <h1 class="title">HarrisX Democratic Nominee HOP 240720_PDF 3</h1>
     <table class="hx-crosstabs">
